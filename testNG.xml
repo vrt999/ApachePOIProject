@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "default-suite">
+<test name = "default-suite">
+<classes>
+
+<class name = "com.Testng.check.sampleTestNG" />
+
+</classes>
+</test>
+</suite>
