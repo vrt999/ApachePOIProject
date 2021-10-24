@@ -75,6 +75,6 @@ public class AlertVisibility {
 		
 		JButton btnSearch = new JButton("Search");
 		btnSearch.setBounds(219, 34, 73, 23);
-		frame.getContentPane().add(btnSearch);
+//		frame.getContentPane().add(btnSearch);
 	}
 }
